@@ -1,0 +1,1 @@
+This will require Clint Pulley's c99 and the grf libraries to build. It should be enough to build game.c - I believe it includes the other files as needed. The final disk needs FINAL_C/P and TITLE_C/P to load splash screens.
