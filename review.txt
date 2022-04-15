@@ -1,0 +1,57 @@
+
+`a review by Steve Burns.
+`Bluegrass 99'ers.
+
+     Waterville Rescue, a fairware game
+by Mike Ward (Seahorse Software), is a
+horizontally scrolling game for one or
+two players.  You begin by maneuvering
+your shark through an array of spears,
+jellyfish, electric eels, fishhooks,
+mines, and falling rocks.  Some of these
+can be "shot at" and eliminated from
+your path, while others must be dodged.
+Then you must rescue a seahorse from a
+giant octopus, a battle which, I might
+add, I have never survived..
+     Written in C99, the game has a nice
+professional look.  The speed of the
+game is adequate for an arcade-type game
+and joystick response is excellent..
+     It is hard to be critical of a game
+that the author is only asking $2.00
+for.  No matter if the game could use a
+few improvements, the price still makes
+it an incredible bargain.  The sequence
+of objects you have to get through
+before you reach the game's climax does
+tend to be just a bit long.  There were
+no docs with the copy I downloaded from
+the Texaments BBS, so I am really not
+sure exactly what I am supposed to do
+when I reach the octopus at what I
+assume is the end of the game.  Do you
+try and snatch the seahorse or keep
+shooting the octopus until it gives up
+its prey? Knowing this might help one
+successfully finish the game.  Also,
+having to use the Editor/Assembler cart
+instead of loading it through an EA 5
+load program is another minor inconveni-
+ence.  I set the game up to load through
+an XB loader written for use with C99 by
+Warren Agee and Todd Kaplan..
+     All in all, I would definitely
+recommend the game, especially if you
+have kids who like to play on your
+computer.  Mike Ward shows a lot of
+talent in the programming of this game
+and also his Teenage Mutant Ninja Turtle
+game for Missing Link.  The game has not
+really seen wide distribution on the BBS
+circuits, so sending $2 and a disk to
+the address below may be the only way
+you can get a copy..
+ 
+Mike Ward.
+<address long long obsolete ;) >
